@@ -258,8 +258,8 @@ def render_page_content(pathname):
                                      className="card-text"),
                                  ),
                                  html.P(dcc.Markdown(
-                                     '''Code Snippet on Jupyter – [https://github.com/carlshizi?tab=repositories/]
-                                     (https://github.com/carlshizi?tab=repositories/)''',
+                                     '''Code Snippet on Jupyter – [https://github.com/carlshizi/othersProject/blob/master/covid_table.ipynb]
+                                     (https://github.com/carlshizi/othersProject/blob/master/covid_table.ipynb)''',
                                      className="card-text"),
                                  ),
                              ]
@@ -281,8 +281,8 @@ def render_page_content(pathname):
                                      className="card-text"),
                                  ),
                                  html.P(dcc.Markdown(
-                                     '''Code Snippet on Jupyter – [https://github.com/carlshizi?tab=repositories/]
-                                     (https://github.com/carlshizi?tab=repositories/)''',
+                                     '''Code Snippet on Jupyter – [https://github.com/carlshizi/othersProject/blob/master/covid_table.ipynb]
+                                     (https://github.com/carlshizi/othersProject/blob/master/covid_table.ipynb)''',
                                      className="card-text"),
                                  ),
                              ]
@@ -299,8 +299,8 @@ def render_page_content(pathname):
                                      className="card-text",
                                  ),
                                  html.P(dcc.Markdown(
-                                     '''Code Snippet on Jupyter – [https://github.com/carlshizi?tab=repositories/]
-                                     (https://github.com/carlshizi?tab=repositories/)''',
+                                     '''Code Snippet on Jupyter – [https://github.com/carlshizi/othersProject/blob/master/DIabetes%20PieChart.ipynb]
+                                     (https://github.com/carlshizi/othersProject/blob/master/DIabetes%20PieChart.ipynb)''',
                                      className="card-text"),
                                  ),
                              ]

@@ -5,7 +5,7 @@ Here is the link to a live running instance of the app hosted on AWS elasticbean
 
 
 <h4>http://others-env.eba-bkirjri5.us-east-2.elasticbeanstalk.com</h4>
-<h5>(NOTE: I stopped the server. It was no longer running on AWS free tier).</h5>
+*(NOTE: I stopped the server. It was no longer running on AWS free tier)
 
 
 

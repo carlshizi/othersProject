@@ -1,5 +1,5 @@
 **<h3># othersProject</h3>**
-A collection of different Plotly Graphs (Written in Python)
+A collection of different Plotly Graphs
 
 Here is the link to a live running instance of the app hosted on AWS elasticbeanstalk (EC2). Open link on google chrome.
 
